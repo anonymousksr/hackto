@@ -1,3 +1,7 @@
-# hacktoberfest repo 
 
-Add your python and ml codes here
+
+
+
+
+# hacktoberfest repository consisting of few python and ml codes
+
